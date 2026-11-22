@@ -1,4 +1,4 @@
-# A Special Delivery for Dr. Panda
+
 
 An interactive 2D anime chibi animated birthday story set in a candlelit Hogwarts-inspired medical ward, featuring a Hufflepuff-scarf wizard panda postal courier, an evasive `IGNORE` button, an animated wax-seal unrolling sequence, and a cursive parchment scroll.
 
